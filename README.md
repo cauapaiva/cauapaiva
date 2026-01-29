@@ -14,13 +14,16 @@
 
 ---
 
-## 🛠️ Tecnologias
-- **Python** (Intermediário)  
-- **SQL / PostgreSQL** (Intermediário)  
-- **Power BI** (Básico / Intermediário)  
-- **Java** (Intermediário)  
-- **C#** (Iniciante)  
 
+## 🛠️ Tecnologias & Níveis
+
+| Tecnologia | Nível |
+|----------|--------|
+| Python | 🟦🟦🟦⬜⬜ |
+| SQL (PostgreSQL) | 🟦🟦🟦⬜⬜ |
+| Power BI | 🟦🟦⬜⬜⬜ |
+| Java | 🟦🟦🟦⬜⬜ |
+| C# | 🟦⬜⬜⬜⬜ |
 ---
 
 ## 💼 Experiência
