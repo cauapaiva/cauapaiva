@@ -12,11 +12,13 @@ Desenvolvedor Back-End em formação • Estudante de Análise e Desenvolvimento
 🛠️ Tecnologias & Níveis
 
 Tecnologia	Nível
+
 Java	🟦🟦🟦⬜⬜
 SQL (PostgreSQL)	🟦🟦🟦⬜⬜
 Spring Boot	🟦🟦🟦🟦⬜
 Python 🟦🟦🟦⬜⬜
 C#	🟦🟦⬜⬜⬜
+
 
 Lógica de Programação
 
@@ -33,11 +35,13 @@ Suporte técnico aos alunos
 
 Apoio à infraestrutura de TI
 
+
 🎓 Formação
 
 🎓 Análise e Desenvolvimento de Sistemas — UNIP (2025 – 2027)
 🖥 Técnico em Informática — Aeronet (2020 – 2023)
 🌎 Inglês — Aeronet (2021 – 2024)
+
 
 📫 Contato
 
