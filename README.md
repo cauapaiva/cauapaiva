@@ -1,54 +1,47 @@
-<h1 align="center">👋 Olá, eu sou o Cauã Paiva</h1>
+👋 Olá, eu sou o Cauã Paiva
 
-<p align="center">
-  <b>Analista de Dados Júnior • Estudante de Análise e Desenvolvimento de Sistemas</b>
-</p>
+Desenvolvedor Back-End em formação • Estudante de Análise e Desenvolvimento de Sistemas
 
----
+🧠 Sobre mim
 
-## 🧠 Sobre mim
-🎯 Iniciante em **Análise de Dados**, com foco em **Python, SQL (PostgreSQL) e Power BI**  
-💻 Experiência prática em **suporte técnico, manutenção de computadores e redes**  
-🎓 Cursando **Análise e Desenvolvimento de Sistemas (UNIP)**  
-🚀 Em busca da primeira oportunidade na área de **Dados ou Tecnologia**
+💻 Estudante de Análise e Desenvolvimento de Sistemas (UNIP)
+🔎 Interesse em desenvolvimento Back-End e banco de dados
+🛠 Experiência prática em suporte técnico, manutenção de computadores e redes
+🚀 Em busca da primeira oportunidade como Desenvolvedor Back-End
 
----
+🛠️ Tecnologias & Níveis
 
+Tecnologia	Nível
+Java	🟦🟦🟦⬜⬜
+SQL (PostgreSQL)	🟦🟦🟦⬜⬜
+Spring Boot	🟦🟦🟦🟦⬜
+Python 🟦🟦🟦⬜⬜
+C#	🟦🟦⬜⬜⬜
 
-## 🛠️ Tecnologias & Níveis
+Lógica de Programação
 
-| Tecnologia | Nível |
-|----------|--------|
-| Python | 🟦🟦🟦⬜⬜ |
-| SQL (PostgreSQL) | 🟦🟦🟦⬜⬜ |
-| Power BI | 🟦🟦⬜⬜⬜ |
-| Java | 🟦🟦🟦⬜⬜ |
-| C# | 🟦⬜⬜⬜⬜ |
----
+💼 Experiência
+🤝 Trabalho Voluntário
 
-## 💼 Experiência
-### 🤝 Trabalho Voluntário  
-**Aeronet Informática e Idiomas (2021 – 2023)**  
+Aeronet Informática e Idiomas (2021 – 2023)
 
-- Manutenção preventiva e corretiva de computadores  
-- Configuração e reparo de redes de computadores  
-- Suporte técnico aos alunos em laboratório  
-- Apoio à organização da infraestrutura de TI  
+Manutenção preventiva e corretiva de computadores
 
----
+Configuração e manutenção de redes
 
-## 🎓 Formação
-🎓 **Análise e Desenvolvimento de Sistemas** — UNIP *(2025 – 2027)*  
-🖥 **Técnico em Informática** — Aeronet *(2020 – 2023)*  
-🌎 **Inglês** — Aeronet *(2021 – 2024)*  
+Suporte técnico aos alunos
 
----
+Apoio à infraestrutura de TI
 
-## 📫 Contato
-- 📧 **Email:** cauan.paiva60@gmail.com  
-- 💼 **LinkedIn:** https://www.linkedin.com/in/caua-paiva-3b8862266/  
-- 💻 **GitHub:** https://github.com/cauapaiva  
+🎓 Formação
 
----
+🎓 Análise e Desenvolvimento de Sistemas — UNIP (2025 – 2027)
+🖥 Técnico em Informática — Aeronet (2020 – 2023)
+🌎 Inglês — Aeronet (2021 – 2024)
 
-⭐ *Se algum projeto te ajudar, deixa uma estrela!*
+📫 Contato
+
+📧 Email: cauan.paiva60@gmail.com
+
+💼 LinkedIn: linkedin.com/in/caua-paiva-3b8862266
+💻 GitHub: github.com/cauapaiva
